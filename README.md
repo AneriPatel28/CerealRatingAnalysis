@@ -46,7 +46,7 @@ The notebook aims to provide insights into:
    ```
 4. **Run the Jupyter notebook**:
    ```bash
-   jupyter notebook 'DV Project.ipynb'
+   jupyter notebook 'Nutritional_content_Analysis.ipynb'
    ```
 
 ## Contributions
